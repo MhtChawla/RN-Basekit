@@ -1,0 +1,29 @@
+{
+  "name": "react-native-basekit",
+  "version": "0.0.1",
+  "keywords": [
+    "react-native",
+    "template",
+    "nativebase",
+    "mst-react-native",
+    "basekit",
+    "mobix-state-tree"
+  ],
+  "description": "The base template for react-native with NativeBase, Mobx-State-Tree (MST), & other necessity plugins",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MhtChawla/RN-Basekit.git"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "license": "MIT",
+  "main": "template.config.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Chawla<chawla.mohi@Gmail.com>"
+}
