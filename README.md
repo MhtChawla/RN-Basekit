@@ -17,10 +17,6 @@ npx react-native init ProjectName --template https://github.com/MhtChawla/RN-Bas
 
 Go to root of project & install node modules
 
-```sh
-yarn install
-```
-
 Now you can edit `App.js` & enjoy developing.
 
 # This repo includes configuration of following packages
